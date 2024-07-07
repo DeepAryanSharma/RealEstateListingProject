@@ -4,7 +4,7 @@ Welcome to **HousingAtEase**, a real estate listing website built using the MERN
 
 ## Demonstration
 
-The visuals offer a transparent representation of the application's capabilities and its operational status.
+The following visuals offer a transparent representation of the application's capabilities and its operational status:
 
 ![Project Banner](https://github.com/DeepAryanSharma/RealEstateListingProject/blob/main/Implementation%20Screenshots/home.png)
 ![BSearch](https://github.com/DeepAryanSharma/RealEstateListingProject/blob/main/Implementation%20Screenshots/search.png)
