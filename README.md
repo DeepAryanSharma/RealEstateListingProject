@@ -1,8 +1,6 @@
 # HousingAtEase
 
-## Project Overview
-
-**HousingAtEase** is a real estate listing website built using the MERN stack. It allows users to browse properties, search for specific listings, and upload properties for sale. The application features user authentication using Auth0, dynamic UI components including drop-down menus with Mantine UI, efficient data fetching managed by React Query, and a robust database setup with Prisma ORM and MongoDB.
+Welcome to **HousingAtEase**, a real estate listing website built using the MERN stack. It allows users to browse properties, search for specific listings, and upload properties for sale. The application features user authentication using Auth0, dynamic UI components including drop-down menus with Mantine UI, efficient data fetching managed by React Query, and a robust database setup with Prisma ORM and MongoDB.
 
 ## Demonstration
 
