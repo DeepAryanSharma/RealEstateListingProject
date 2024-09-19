@@ -47,7 +47,7 @@ The following visuals offer a transparent representation of the application's ca
 
 ### Frontend
 
-The frontend is deployed on Netlify. You can visit it at [HousingAtEase on Vercel](https://real-estate-listing-project-ten.vercel.app/).
+The frontend is deployed on vercel. You can visit it at [HousingAtEase on Vercel](https://real-estate-listing-project-ten.vercel.app/).
 
 ### Backend
 
